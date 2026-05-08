@@ -1,6 +1,6 @@
 {
   "name": "consideration",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Consideration is a promise of something of value given by a promissor",
   "author": "Alex Potsides <alex.potsides@protocol.ai>",
   "license": "Apache-2.0 OR MIT",
